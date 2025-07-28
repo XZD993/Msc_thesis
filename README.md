@@ -1,5 +1,5 @@
 # Msc_thesis
-This repository include all R script, data, table, and figures used in my thesis entitled "A group sequential three-arm two-stage trial design with rank-based endpoints"
+This repository includes all R script, data, table, and figures used in my thesis entitled "A group sequential three-arm two-stage trial design with rank-based endpoints"
 ## File description
 # R script
 1. FUNCTIONS.R contains necessary functions to run the simulations and generate the tables and figures in Section 9 of my thesis.
